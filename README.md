@@ -18,7 +18,7 @@ FollowerCount current followers
 FollowerCount number of followers
 ```
 
-# Lambda Configuration
+## Lambda Configuration
 
 1. Name - GithubAlexaSkill
 2. Trigger - Alexa Skill Kit
