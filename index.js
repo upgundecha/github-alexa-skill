@@ -29,7 +29,7 @@ getFollowerCount = (callback) =>{
   var options = {
     url: `https://api.github.com/users/${process.env.USERNAME}`,
     headers: {
-      'User-Agent': 'alexa-skill'
+      'User-Agent': 'github-alexa-skill'
     }
   };
   request(options, function(error, response, body){
